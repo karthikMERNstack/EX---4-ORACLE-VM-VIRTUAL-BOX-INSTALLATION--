@@ -1,8 +1,8 @@
 # Assignment: Installation of Oracle VM VirtualBox
 
 
-### Name : George Paul Tony.C
-### Reg. No: 212222040043
+### Name : Karthik R  
+### Reg. No: 2122221040074
 
 
 ## Aim
